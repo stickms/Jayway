@@ -1,3 +1,3 @@
 # Jayway
 
-Jayway website developed & ported to [https://github.com/facebook/react](React.JS)
+Jayway website developed & ported to [React.JS](https://github.com/facebook/react)
